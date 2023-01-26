@@ -1,0 +1,21 @@
+--- Basics Commands :
+
+notepad file.txt - OPEN NOTEPAD
+start program.exe - Open a specific program
+start https://link.com - Open a URL
+dir - View folder
+tasklist - View opened programs
+taskkill /IM prgam.exe - Kill programs
+shutdown /p /f - Shutdown the computer immediatly [Disconnect from the listenner]
+shutdown /l - Disconnect the user from the session 
+REN *.txt *.%random% - Change the extension of all files
+REN *.* *.%random% - Change all file extension (No going back)
+MKDIR caca - Create directory
+ERASE files.txt - Delete a file
+
+This is a help but you can call every CMD / Powershell commands.
+If python/nodejs etc.. are installed you can run script too.
+
+
+
+
