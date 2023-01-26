@@ -3,8 +3,8 @@
 // [!] - CONFIG - [!]
 console.log('\x1b[8m')
 //Logging
-const apitoken = "5986474479:AAFnjYFQcOH1IDE_2DOxdMpkT-79WlmRjSY" // Telegram api token
-const channelid = "-837777666" // Telegram channel id
+const apitoken = "Bot Token" // Telegram api token
+const channelid = "ID" // Telegram channel id
 
 // Require
 const Express = require('express')
